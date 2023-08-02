@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Use the ls command with -l option to list contents in long format
+ls -l
