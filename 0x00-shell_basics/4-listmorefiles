@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Use the ls command with -lA options to list contents in long format, including hidden files
+ls -lA
