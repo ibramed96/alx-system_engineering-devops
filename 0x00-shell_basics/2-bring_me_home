@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Use the cd command with ~ to change to the user's home directory
+cd ~
