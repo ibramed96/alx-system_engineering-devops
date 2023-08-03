@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Use the rm command to delete the file betty from /tmp/my_first_directory/
+rm /tmp/my_first_directory/betty
