@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Use the rmdir command to delete the empty directory /tmp/my_first_directory
+rmdir /tmp/my_first_directory
