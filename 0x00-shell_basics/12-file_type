@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Use the file command to print the type of the file iamafile in the /tmp directory
+file /tmp/iamafile
