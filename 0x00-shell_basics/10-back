@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Use the cd command with $OLDPWD to change to the previous working directory
+cd "$OLDPWD"
