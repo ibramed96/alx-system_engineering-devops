@@ -1,4 +1,2 @@
 #!/bin/bash
-
-# Use the ln command with -s option to create a symbolic link __ls__ to /bin/ls in the current directory
-ln -s /bin/ls __ls__
+ln -s /bin/ls --ls--

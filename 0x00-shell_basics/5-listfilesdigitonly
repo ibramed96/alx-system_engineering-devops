@@ -1,5 +1,2 @@
 #!/bin/bash
-
-# Use the ls command with -lA and --numeric-uid-gid options to list contents in long format
-# with user and group IDs displayed numerically, including hidden files
-ls -lA --numeric-uid-gid
+ls -lA

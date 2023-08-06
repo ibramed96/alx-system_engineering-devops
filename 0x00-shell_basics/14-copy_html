@@ -1,8 +1,2 @@
 #!/bin/bash
-
-# Use the cp command with -u (update) option to copy HTML files to the parent directory
-# Only copy files that do not exist in the parent directory or are newer than the versions in the parent directory
-cp -u *.html ..
-
-# Print a message indicating the completion of the copying process
-echo "HTML files copied to the parent directory."
+cp -u *.html
