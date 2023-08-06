@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Use the su command to switch to the user betty
+su betty
